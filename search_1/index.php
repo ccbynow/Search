@@ -77,7 +77,7 @@ fieldset.search:hover {
 </head>
 <body>
 <div>
-<h2>搜索路径</h2>
+<h2>搜索路径:</h2>
 <form method="post" action="search.php" enctype="multipart/form-data">
 <fieldset class="search">
         
