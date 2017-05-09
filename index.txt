@@ -7,7 +7,7 @@
 通俗的讲就是从最后一行开始读，读完最后一行读倒数第二行、倒数第三行。。以此类推
 *
 */
-	echo 111;
+	echo date('Y-m-d');
 	function tail($fp,$n,$base=5)
 	{
 		 assert($n>0);
